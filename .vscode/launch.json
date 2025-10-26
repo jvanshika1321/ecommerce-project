@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/vanshikajoshi/Desktop/classroom/csstutorial/e_com_project",
+      "program": "/Users/vanshikajoshi/Desktop/classroom/csstutorial/e_com_project/build/Debug/outDebug"
+    }
+  ]
+}
